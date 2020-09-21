@@ -1,2 +1,2 @@
-# 3D-racing-car-game
-A 3D car racing game using OpenGL-GLFW.
+# 3D Racing Car Game
+A 3D racing car game using OpenGL-GLFW. Projet for Computer Graphics course, Cairo university, faculty of engineering.
